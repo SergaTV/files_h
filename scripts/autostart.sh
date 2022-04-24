@@ -1,4 +1,4 @@
-(cd *riendl* && echo "Description=FTG
+(cd ~/*riendl* && echo "Description=FTG
 [Service]
 WorkingDirectory=$(pwd)/
 ExecStart=/usr/bin/python3 -m friendly-telegram
